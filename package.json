@@ -18,10 +18,12 @@
     "mongodb": "^3.1.13",
     "mongoose": "^5.4.19",
     "multer": "^1.4.1",
+    "sharp": "^0.21.1",
     "validator": "^10.11.0"
   },
   "devDependencies": {
     "env-cmd": "^8.0.2",
+    "jest": "^24.5.0",
     "nodemon": "^1.18.10"
   }
 }
